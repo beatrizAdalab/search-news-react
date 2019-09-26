@@ -1,3 +1,8 @@
+
+# News search
+This is a news search engine built with React. An external API has been used and its data handled. It contains a filter by category. Materializecss has been used on the css.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
